@@ -1,0 +1,23 @@
+p {
+	text-align: center;
+}
+button {
+  background-color: white;
+  border: 3px solid #555555;
+  color: #555555;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  text-decoration-style: bold;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #555555;
+  color: white;
+}
+
+
